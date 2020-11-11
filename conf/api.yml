@@ -1,0 +1,5 @@
+url: https://qyapi.weixin.qq.com/cgi-bin/department/list
+method: get
+params:
+  id: {{id}}
+  access_token: {{access_token}}

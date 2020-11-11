@@ -1,0 +1,2 @@
+method: DELETE
+url: /dict/hs/{{id}}
