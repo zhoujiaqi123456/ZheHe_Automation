@@ -1,7 +1,6 @@
 
 allure-pytest==2.7.0
 allure-python-commons==2.7.0
-Appium-Python-Client==1.0.2
 jsonpath==0.82
 lxml==4.5.0
 more-itertools==8.2.0
