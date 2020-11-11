@@ -1595,11 +1595,41 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/requirement.txt">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="31" column="10" selection-start-line="31" selection-start-column="10" selection-end-line="31" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test_appium/test_appium.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="353">
+              <caret line="32" selection-start-line="32" selection-end-line="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/testcases/test_all.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="50">
+              <caret line="8" column="14" lean-forward="true" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+              <folding>
+                <element signature="e#0#29#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/conf/config.ini">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
-              <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
+              <caret line="7" column="14" lean-forward="true" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -1650,7 +1680,6 @@
         <option value="$PROJECT_DIR$/testcases/conftest.py" />
         <option value="$PROJECT_DIR$/testcases/test_login.py" />
         <option value="$PROJECT_DIR$/common/compare_data.py" />
-        <option value="$PROJECT_DIR$/testcases/test_all.py" />
         <option value="$PROJECT_DIR$/testcases/test_department.py" />
         <option value="$PROJECT_DIR$/testcases/test_mark.py" />
         <option value="$PROJECT_DIR$/testcases/test_plug.py" />
@@ -1666,7 +1695,6 @@
         <option value="$PROJECT_DIR$/api/department_yml.py" />
         <option value="$PROJECT_DIR$/common/base_classes.py" />
         <option value="$PROJECT_DIR$/testcases/test_department_yml.py" />
-        <option value="$PROJECT_DIR$/conf/config.ini" />
         <option value="$PROJECT_DIR$/api/hs编码管理.py" />
         <option value="$PROJECT_DIR$/api/业务财务支出.py" />
         <option value="$PROJECT_DIR$/api/业务财务收入对账.py" />
@@ -1683,6 +1711,8 @@
         <option value="$PROJECT_DIR$/test_appium/test_appium.py" />
         <option value="$PROJECT_DIR$/api/wework.py" />
         <option value="$PROJECT_DIR$/requirement.txt" />
+        <option value="$PROJECT_DIR$/conf/config.ini" />
+        <option value="$PROJECT_DIR$/testcases/test_all.py" />
       </list>
     </option>
   </component>
@@ -1713,6 +1743,21 @@
             <path>
               <item name="ZheHe_Automation" type="b2602c69:ProjectViewProjectNode" />
               <item name="ZheHe_Automation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ZheHe_Automation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ZheHe_Automation" type="462c0819:PsiDirectoryNode" />
+              <item name="conf" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ZheHe_Automation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ZheHe_Automation" type="462c0819:PsiDirectoryNode" />
+              <item name="test_appium" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ZheHe_Automation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ZheHe_Automation" type="462c0819:PsiDirectoryNode" />
+              <item name="testcases" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -2036,7 +2081,7 @@
       <workItem from="1595830168522" duration="33565000" />
       <workItem from="1604318588877" duration="4217000" />
       <workItem from="1605002552536" duration="2082000" />
-      <workItem from="1605064086473" duration="1112000" />
+      <workItem from="1605064086473" duration="2063000" />
     </task>
     <servers />
   </component>
@@ -2073,13 +2118,12 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="220630000" />
+    <option name="totallyTimeSpent" value="221581000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="801" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49333334" visible="true" weight="0.37339056" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49333334" visible="true" weight="0.37339056" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" sideWeight="0.50666666" side_tool="true" weight="0.17790957" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -2090,7 +2134,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.3554302" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.5980254" />
       <window_info anchor="bottom" id="Python Console" order="9" weight="0.32916668" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32916668" />
       <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
@@ -2142,13 +2186,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file:///usr/local/Cellar/python/3.7.7/Frameworks/Python.framework/Versions/3.7/lib/python3.7/codecs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="107">
-          <caret line="267" selection-start-line="267" selection-end-line="267" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../Documents/base-service-master11/Resource/databbb.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="351">
@@ -2225,13 +2262,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1530">
           <caret line="102" column="27" selection-start-line="102" selection-start-column="27" selection-end-line="102" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/conf/config.ini">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
@@ -2431,13 +2461,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_appium/test_appium.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test_selenium/test_browser.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -2474,16 +2497,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testcases/test_all.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="558">
-          <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
-          <folding>
-            <element signature="e#0#29#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/api/wework.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -2503,8 +2516,39 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/requirement.txt">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="31" column="10" selection-start-line="31" selection-start-column="10" selection-end-line="31" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_appium/test_appium.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/Cellar/python/3.7.7/Frameworks/Python.framework/Versions/3.7/lib/python3.7/configparser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1084">
+          <caret line="779" column="27" lean-forward="true" selection-start-line="779" selection-start-column="27" selection-end-line="779" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf/config.ini">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
-          <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
+          <caret line="7" column="14" lean-forward="true" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcases/test_all.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="8" column="14" lean-forward="true" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -6,11 +6,11 @@ import pytest
 
 
 class TestAll:
-    # 先实例化对象
+    # # 先实例化对象
     department = Department()
-    db = DataBase(department.get_config("MYSQL", "HOST"), department.get_config("MYSQL", "PORT"),
-                  department.get_config("MYSQL", "USER"), department.get_config("MYSQL", "PASSWORD"),
-                  department.get_config("MYSQL", "DATABASE"))
+    # db = DataBase(department.get_config("MYSQL", "HOST"), department.get_config("MYSQL", "PORT"),
+    #               department.get_config("MYSQL", "USER"), department.get_config("MYSQL", "PASSWORD"),
+    #               department.get_config("MYSQL", "DATABASE"))
 
     def test_all(self):
         #先新增部门
