@@ -1,2 +1,0 @@
-DEBUG    urllib3.connectionpool:connectionpool.py:959 Starting new HTTPS connection (1): qyapi.weixin.qq.com:443
-DEBUG    urllib3.connectionpool:connectionpool.py:437 https://qyapi.weixin.qq.com:443 "GET //cgi-bin/gettoken?parameter=corpid&parameter=corpsecret HTTP/1.1" 200 192
